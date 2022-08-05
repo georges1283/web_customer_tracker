@@ -1,0 +1,1 @@
+web-customer-tracker is a spring MVC - Hibernate app that connects to MySQL database to do CRUD operations
